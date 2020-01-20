@@ -1,1 +1,1 @@
-##Test maven project
+##Test maven project for jenkins build
